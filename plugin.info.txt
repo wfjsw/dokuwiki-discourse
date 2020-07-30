@@ -1,0 +1,7 @@
+base   discourse
+author Jabasukuriputo Wang
+email  placeholder@example.com
+date   2020-02-14
+name   discourse comments embed plugin
+desc   Allows discourse comments to be loaded by an iframe in your DokuWiki page.
+url    http://www.dokuwiki.org/plugin:iframe

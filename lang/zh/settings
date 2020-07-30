@@ -1,0 +1,3 @@
+<?php
+
+$lang['discourse_host']  = '用于评论嵌入的 Discourse 主机地址';
